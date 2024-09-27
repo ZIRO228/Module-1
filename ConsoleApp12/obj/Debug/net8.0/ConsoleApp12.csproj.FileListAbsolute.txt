@@ -1,0 +1,14 @@
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.exe
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.deps.json
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.runtimeconfig.json
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.dll
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.pdb
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfoInputs.cache
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfo.cs
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.dll
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\refint\ConsoleApp12.dll
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.pdb
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.genruntimeconfig.cache
+E:\Практыка по программированыю\моя попытка номер 5\ConsoleApp1\ConsoleApp12\obj\Debug\net8.0\ref\ConsoleApp12.dll
